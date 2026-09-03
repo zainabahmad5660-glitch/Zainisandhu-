@@ -1,0 +1,6 @@
+{
+  "name": "زینب کی کہانی - ایپی سوڈ 2",
+  "description": "ایپی سوڈ 2: کچھ خواب، جو حالات سے بڑے تھے - زینب کے بچپن، جدوجہد اور امید کی داستان۔",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
